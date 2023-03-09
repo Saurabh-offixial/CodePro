@@ -21,6 +21,11 @@
   transition: all .2s ease-out;
 }
 
+#btn1{
+  margin-bottom: 20%;
+}
+
+
 .refer{
   background: linear-gradient(0deg,#3494e6 50%,#ec6ead);
 }
